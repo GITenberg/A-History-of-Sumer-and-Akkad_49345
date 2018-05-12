@@ -1,4 +1,8 @@
 _repo: A-History-of-Sumer-and-Akkad_49345
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49345-h/images/cover.png
 creator:
   author:
     agent_name: King, L. W. (Leonard William)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '793'
     url: http://www.gutenberg.org/2009/agents/793
 description: History of Babylonia and Assyria, Vol. I
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49345#A-History-of-Sumer-and-Akkad
 gutenberg_issued: '2015-07-02'
 gutenberg_type: Text
 identifiers:
